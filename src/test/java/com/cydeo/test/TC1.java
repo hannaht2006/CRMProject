@@ -1,2 +1,5 @@
-package com.cydeo.test;public class TC1 {
+package com.cydeo.test;
+
+public class TC1 {
+
 }
